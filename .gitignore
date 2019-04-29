@@ -45,3 +45,29 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# rime old file
+bopomofo.schema.yaml
+bopomofo_express.schema.yaml
+bopomofo_tw.schema.yaml
+cangjie5.dict.yaml
+cangjie5.schema.yaml
+cangjie5_express.schema.yaml
+default.yaml
+essay.txt
+key_bindings.yaml
+luna_pinyin.dict.yaml
+luna_pinyin.schema.yaml
+luna_pinyin_fluency.schema.yaml
+luna_pinyin_simp.schema.yaml
+luna_pinyin_tw.schema.yaml
+luna_quanpin.schema.yaml
+opencc/
+preview/
+punctuation.yaml
+stroke.dict.yaml
+stroke.schema.yaml
+symbols.yaml
+terra_pinyin.dict.yaml
+terra_pinyin.schema.yaml
+weasel.yaml
