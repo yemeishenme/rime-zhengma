@@ -26,7 +26,6 @@ encoder:
       formula: "AaBaCaDa"
 
 import_tables:
-#  - bzzm.phrases
   - bzzm.words
 ...
 
