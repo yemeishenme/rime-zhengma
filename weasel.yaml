@@ -20,7 +20,7 @@ style:
   display_tray_icon: false
   label_format: "%s."
   layout:
-    min_width: 160
+    min_width: 260
     min_height: 0
     border_width: 3
     margin_x: 12
